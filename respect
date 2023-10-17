@@ -1,0 +1,6 @@
+
+The code you provided is a PHP script, so you will need to have PHP installed on your server in order to run it. You can download PHP from the official website: https://www.php.net/downloads. Once you have PHP installed, you can create a new file called `index.php` and copy the code you provided into it. Then, you can open the file in a web browser to see the forum.
+
+If you are using a shared hosting account, your hosting provider may have already installed PHP for you. You can check with your hosting provider's documentation to find out for sure.
+
+If you are running PHP on your own server, you will need to make sure that the `mysqli` extension is enabled. The `mysqli` extension is used to connect to MySQL databases. You can enable the `mysqli` extension by adding the following line to your `php.ini` file:
